@@ -1,0 +1,26 @@
+:root {
+    /* Primary colors - derived from your logo */
+    --primary-orange: #FF7F00; /* Adjust to match your exact orange shade */
+    --primary-blue: #0066CC;   /* Adjust to match your exact blue shade */
+    
+    /* Secondary/accent colors */
+    --light-orange: #FFA347;   /* Lighter shade for hover states, backgrounds */
+    --dark-orange: #E67300;    /* Darker shade for borders, text */
+    --light-blue: #3399FF;     /* Lighter shade for hover states, backgrounds */
+    --dark-blue: #004C99;      /* Darker shade for borders, text */
+    
+    /* Neutral colors to balance the palette */
+    --white: #FFFFFF;
+    --off-white: #F7F7F7;      /* For backgrounds */
+    --light-gray: #E5E5E5;     /* For dividers, borders */
+    --medium-gray: #999999;    /* For secondary text */
+    --dark-gray: #333333;      /* For primary text */
+    
+    /* Feedback colors */
+    --success: #28A745;        /* Green for success messages */
+    --warning: #FFC107;        /* Yellow for warnings */
+    --error: #DC3545;          /* Red for errors */
+    --info: #17A2B8;      
+    
+    --gray-default: #F2F2F2;/* Teal for information messages */
+  }
