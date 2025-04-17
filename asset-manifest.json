@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/potpol/static/css/main.71a22580.css",
+    "main.js": "/potpol/static/js/main.20a36046.js",
+    "static/js/453.99036b44.chunk.js": "/potpol/static/js/453.99036b44.chunk.js",
+    "static/media/zd4.jpg": "/potpol/static/media/zd4.08377880e65152941897.jpg",
+    "static/media/zd3.jpg": "/potpol/static/media/zd3.dd3ccb8ba22fbf3751c4.jpg",
+    "static/media/zd5.jpg": "/potpol/static/media/zd5.8d49b7cd2c43f9726df4.jpg",
+    "static/media/zd2.jpg": "/potpol/static/media/zd2.2fc74ac9d2570ab3c6b8.jpg",
+    "static/media/zd1.jpg": "/potpol/static/media/zd1.50cbd0e14494e65ed67e.jpg",
+    "index.html": "/potpol/index.html",
+    "main.71a22580.css.map": "/potpol/static/css/main.71a22580.css.map",
+    "main.20a36046.js.map": "/potpol/static/js/main.20a36046.js.map",
+    "453.99036b44.chunk.js.map": "/potpol/static/js/453.99036b44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a22580.css",
+    "static/js/main.20a36046.js"
+  ]
+}
